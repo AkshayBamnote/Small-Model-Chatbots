@@ -99,13 +99,7 @@ For more consistent, factually accurate, and instruction-following results, espe
 
 These models offer significantly better contextual understanding, but require GPUs and more memory to run smoothly.
 
----
 
-## 🎥 Note on Demo Video
-
-Due to a tight deadline and a facecam hardware issue on my laptop, I was unable to record and submit a demo video for this assignment. All code and interactions have been tested thoroughly in a local environment and are fully functional.
-
----
 
 ## 📬 Author
 
